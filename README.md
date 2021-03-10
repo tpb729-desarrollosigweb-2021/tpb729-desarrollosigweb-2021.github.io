@@ -6,7 +6,7 @@ El curso forma parte de la [Maestría en Sistemas de Información Geográfica y 
 Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de este curso están disponibles en [https://github.com/tpb729-desarrollosigweb-2021](https://github.com/tpb729-desarrollosigweb-2021).
 
 #### Lecciones
-[01 Sistemas de información geográfica en la Web](https://github.com/tpb729-desarrollosigweb-2021/leccion-01-sigweb)  
+[01 Introducción a los sistemas de información geográfica en la Web](https://github.com/tpb729-desarrollosigweb-2021/leccion-01-sigweb)  
 
 Este sitio ha sido construído con las siguientes herramientas y sintaxis:
 
