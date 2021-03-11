@@ -11,6 +11,9 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 #### Lecciones
 [01 Introducción a los sistemas de información geográfica en la Web](https://github.com/tpb729-desarrollosigweb-2021/leccion-01-sigweb)  
 
+#### Otros
+[Videos de las lecciones](https://www.youtube.com/playlist?list=PL1gEgLSwAJeIjZiCE8SWrGJ1C2KIRX1O1)
+
 Este sitio ha sido construído con las siguientes herramientas y sintaxis:
 
 - [GitHub Pages](https://pages.github.com/)
