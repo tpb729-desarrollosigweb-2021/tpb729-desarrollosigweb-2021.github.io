@@ -10,7 +10,8 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 
 #### Lecciones
 [01 Introducción a los sistemas de información geográfica en la Web](https://github.com/tpb729-desarrollosigweb-2021/leccion-01-sigweb)  
-[02 El Lenguaje de Marcas de Hipertexto (HTML)](https://github.com/tpb729-desarrollosigweb-2021/leccion-02-html)  
+[02 Lenguaje de Marcas de Hipertexto (HTML)](https://github.com/tpb729-desarrollosigweb-2021/leccion-02-html)  
+[03 Hojas de Estilo en Cascada (CSS)](https://github.com/tpb729-desarrollosigweb-2021/leccion-03-css)  
 
 #### Tareas
 [01 HTML](https://tpb729-desarrollosigweb-2021.github.io/tarea-01-html/)
