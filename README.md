@@ -16,7 +16,8 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 [05 Leaflet](https://github.com/tpb729-desarrollosigweb-2021/leccion-05-leaflet)  
 
 #### Tareas
-[01 HTML](https://tpb729-desarrollosigweb-2021.github.io/tarea-01-html/)
+[01 HTML](https://tpb729-desarrollosigweb-2021.github.io/tarea-01-html/)  
+[02 Leaflet](https://tpb729-desarrollosigweb-2021.github.io/tarea-02-leaflet/)  
 
 #### Recursos
 [Lista de recursos](https://tpb729-desarrollosigweb-2021.github.io/recursos/)
