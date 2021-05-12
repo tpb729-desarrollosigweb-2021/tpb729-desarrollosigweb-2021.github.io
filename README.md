@@ -13,7 +13,10 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 [02 Lenguaje de Marcas de Hipertexto (HTML)](https://github.com/tpb729-desarrollosigweb-2021/leccion-02-html)  
 [03 Hojas de Estilo en Cascada (CSS)](https://github.com/tpb729-desarrollosigweb-2021/leccion-03-css)  
 [04 JavaScript](https://github.com/tpb729-desarrollosigweb-2021/leccion-04-javascript)  
-[05 Leaflet](https://github.com/tpb729-desarrollosigweb-2021/leccion-05-leaflet)  
+[05 Leaflet - introducción](https://github.com/tpb729-desarrollosigweb-2021/leccion-05-leaflet)  
+[06 Leaflet - capas vectoriales](https://github.com/tpb729-desarrollosigweb-2021/leccion-06-leaflet-capasvectoriales)  
+[07 Leaflet - complementos](https://github.com/tpb729-desarrollosigweb-2021/leccion-06-leaflet-complementos)  
+
 
 #### Tareas
 [01 HTML](https://tpb729-desarrollosigweb-2021.github.io/tarea-01-html/)  
