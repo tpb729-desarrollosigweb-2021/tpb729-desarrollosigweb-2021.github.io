@@ -15,7 +15,7 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 [04 JavaScript](https://github.com/tpb729-desarrollosigweb-2021/leccion-04-javascript)  
 [05 Leaflet - introducción](https://github.com/tpb729-desarrollosigweb-2021/leccion-05-leaflet)  
 [06 Leaflet - capas vectoriales](https://github.com/tpb729-desarrollosigweb-2021/leccion-06-leaflet-capasvectoriales)  
-[07 Leaflet - complementos](https://github.com/tpb729-desarrollosigweb-2021/leccion-06-leaflet-complementos)  
+[07 Leaflet - complementos](https://github.com/tpb729-desarrollosigweb-2021/leccion-07-leaflet-complementos)  
 
 
 #### Tareas
