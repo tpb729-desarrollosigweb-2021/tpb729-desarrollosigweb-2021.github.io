@@ -16,6 +16,7 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 [05 Leaflet - introducción](https://github.com/tpb729-desarrollosigweb-2021/leccion-05-leaflet)  
 [06 Leaflet - capas vectoriales](https://github.com/tpb729-desarrollosigweb-2021/leccion-06-leaflet-capasvectoriales)  
 [07 Leaflet - complementos](https://github.com/tpb729-desarrollosigweb-2021/leccion-07-leaflet-complementos)  
+[08 Leaflet - acceso a servicios web](https://github.com/tpb729-desarrollosigweb-2021/leccion-08-leaflet-serviciosweb)  
 
 
 #### Tareas
