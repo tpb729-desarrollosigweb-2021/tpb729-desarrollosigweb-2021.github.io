@@ -27,7 +27,8 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 [Lista de recursos](https://tpb729-desarrollosigweb-2021.github.io/recursos/)
 
 #### Otros
-[Videos de las lecciones](https://www.youtube.com/playlist?list=PL1gEgLSwAJeIjZiCE8SWrGJ1C2KIRX1O1)
+[Videos de las lecciones](https://www.youtube.com/playlist?list=PL1gEgLSwAJeIjZiCE8SWrGJ1C2KIRX1O1)  
+[Datos utilizados](https://github.com/tpb729-desarrollosigweb-2021/datos)
 
 Este sitio ha sido construído con las siguientes herramientas y sintaxis:
 
