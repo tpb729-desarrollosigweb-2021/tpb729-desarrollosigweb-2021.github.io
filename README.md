@@ -19,6 +19,7 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 [08 Leaflet - acceso a servicios web](https://github.com/tpb729-desarrollosigweb-2021/leccion-08-leaflet-serviciosweb)  
 [09 Leaflet - capas raster](https://github.com/tpb729-desarrollosigweb-2021/leccion-09-leaflet-capasraster)  
 [10 Leaflet - acceso al DOM y manejo de eventos](https://github.com/tpb729-desarrollosigweb-2021/leccion-10-leaflet-dom-eventos)  
+[11 Leaflet - mapas de coropletas](https://github.com/tpb729-desarrollosigweb-2021/leccion-11-leaflet-coropletas)  
 
 #### Tareas
 [01 HTML](https://tpb729-desarrollosigweb-2021.github.io/tarea-01-html/)  
