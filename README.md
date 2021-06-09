@@ -21,6 +21,7 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 [10 Leaflet - acceso al DOM y manejo de eventos](https://github.com/tpb729-desarrollosigweb-2021/leccion-10-leaflet-dom-eventos)  
 [11 Leaflet - mapas de coropletas](https://github.com/tpb729-desarrollosigweb-2021/leccion-11-leaflet-coropletas)  
 [12 Leaflet - mapas de puntos agrupados](https://github.com/tpb729-desarrollosigweb-2021/leccion-12-leaflet-agrupados)  
+[13 Leaflet - mapas de calor](https://github.com/tpb729-desarrollosigweb-2021/leccion-13-leaflet-calor)  
 
 #### Tareas
 [01 HTML](https://tpb729-desarrollosigweb-2021.github.io/tarea-01-html/)  
