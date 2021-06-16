@@ -22,12 +22,16 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 [11 Leaflet - mapas de coropletas](https://github.com/tpb729-desarrollosigweb-2021/leccion-11-leaflet-coropletas)  
 [12 Leaflet - mapas de puntos agrupados](https://github.com/tpb729-desarrollosigweb-2021/leccion-12-leaflet-agrupados)  
 [13 Leaflet - mapas de calor](https://github.com/tpb729-desarrollosigweb-2021/leccion-13-leaflet-calor)  
+[14 Leaflet - mapas con filtros de datos](https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-leaflet-filtro/)
 
 #### Tareas
 [01 HTML](https://tpb729-desarrollosigweb-2021.github.io/tarea-01-html/)  
 [02 Leaflet - mapas básicos](https://tpb729-desarrollosigweb-2021.github.io/tarea-02-leaflet/)  
 [03 Leaflet - capas WMS, raster y de coropletas](https://tpb729-desarrollosigweb-2021.github.io/tarea-03-leaflet-wms-raster-coropletas/)  
 [04 Leaflet - capas de registros agrupados y de calor](https://tpb729-desarrollosigweb-2021.github.io/tarea-04-leaflet-agrupados-calor/)  
+
+
+#### Proyecto
 
 #### Recursos
 [Lista de recursos](https://tpb729-desarrollosigweb-2021.github.io/recursos/)
