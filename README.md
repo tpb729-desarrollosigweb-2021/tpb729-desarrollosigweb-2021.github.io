@@ -30,8 +30,8 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 [03 Leaflet - capas WMS, raster y de coropletas](https://tpb729-desarrollosigweb-2021.github.io/tarea-03-leaflet-wms-raster-coropletas/)  
 [04 Leaflet - capas de registros agrupados y de calor](https://tpb729-desarrollosigweb-2021.github.io/tarea-04-leaflet-agrupados-calor/)  
 
-
 #### Proyecto
+[Proyecto](https://tpb729-desarrollosigweb-2021.github.io/proyecto/)  
 
 #### Recursos
 [Lista de recursos](https://tpb729-desarrollosigweb-2021.github.io/recursos/)
