@@ -23,7 +23,8 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 [12 Leaflet - mapas de puntos agrupados](https://github.com/tpb729-desarrollosigweb-2021/leccion-12-leaflet-agrupados)  
 [13 Leaflet - mapas de calor](https://github.com/tpb729-desarrollosigweb-2021/leccion-13-leaflet-calor)  
 [14 Leaflet - mapas con filtros de datos](https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-leaflet-filtro/)  
-[15 Otras bibliotecas para programación de aplicaciones geoespaciales en la Web](https://github.com/tpb729-desarrollosigweb-2021/leccion-15-otras-bibliotecas-sigweb)
+[15 Otras bibliotecas para programación de aplicaciones geoespaciales en la Web](https://github.com/tpb729-desarrollosigweb-2021/leccion-15-otras-bibliotecas-sigweb)  
+[16 Leaflet - mapas para dispositivos móviles](https://github.com/tpb729-desarrollosigweb-2021/leccion-16-leaflet-movil)  
 
 #### Tareas
 [01 HTML](https://tpb729-desarrollosigweb-2021.github.io/tarea-01-html/)  
